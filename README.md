@@ -8,16 +8,11 @@ O objetivo principal é compreender os princípios por trás de um ransomware, d
 ## Arquivos
 - `encrypter.py`: Este arquivo contém o código responsável por criptografar os arquivos.
 - `decrypter.py`: Aqui está o código que permite descriptografar um arquivo previamente criptografado.
-- `example.txt`: Um arquivo de exemplo contendo uma frase/trecho ou palavra para ilustrar o funcionamento do ransomware.
+- `example.txt`: Arquivo com mensagem exemplo.
 
 ## Ferramentas
 
 Foi utlizado o Kali Linux e a escrita do código no próprio Nano do Kali Linux.
 
-## Aviso
-Este código é apenas para fins educacionais e deve ser usado de forma ética e responsável. Não é destinado a ser utilizado para prejudicar sistemas ou pessoas.
 
-**AVISO:** Nunca utilize tal código para criptografar ou manipular arquivos sem permissão explícita.
 
-## Agradecimentos
-Este desafio faz parte da Formação Cybersecurity Specialist e Santander Bootcamp Cibersegurança, agradecimentos à Dio e ao Santander por oferecerem essa oportunidade de aprendizado
